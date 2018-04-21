@@ -1,4 +1,3 @@
-import texttable as tt
 import getpass
 from tugas.penilaian import nilai_mahasiswa
 from tugas.pembayaran import pembayaran
